@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/tabla-del-7",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a tabla-del-7",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/tabla-del-7.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://wbt.link/tabla-del-7/"
+    },
+    "homepage": "https://wbt.link/tabla-del-7/"
+}
